@@ -50,3 +50,8 @@ return [
     ],
 
 ];
+
+/**
+ * Reading: DONE
+ * Understanding: DONE
+ */
