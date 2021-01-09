@@ -32,3 +32,9 @@ return [
     'supports_credentials' => false,
 
 ];
+
+
+/**
+ * Reading: DONE
+ * Understanding: DONE
+ */
